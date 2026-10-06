@@ -14,7 +14,7 @@ A console-based C++ application designed to manage student records efficiently. 
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/Ghufran324/student-record-management-system.git](https://github.com/Ghufran324/student-record-management-system.git)
+git clone https://github.com/Ghufran324/student-record-management-system.git
 
 # 2. Compile using G++ compiler
 g++ "Student Record Management System.cpp" -o student_system
